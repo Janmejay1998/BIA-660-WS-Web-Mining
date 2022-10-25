@@ -1,4 +1,4 @@
-RottenTomatoes Scraper
+# RottenTomatoes Scraper
 
 Use selenium to create a Python Notebook with a python function called scrape(driver, url)
 The function should accept 2 parameters:
