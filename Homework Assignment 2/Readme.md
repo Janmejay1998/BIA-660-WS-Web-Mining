@@ -1,6 +1,6 @@
 # RottenTomatoes Scraper
 
-Use selenium to create a Python Notebook with a python function called scrape(driver, url)
+Use selenium to create a Python Notebook with a python function called scrape(driver, url) <br>
 The function should accept 2 parameters:
 driver: the selenium webdriver (bridge) that connects python to chrome. This is exactly the same parameter that we used in class. 
 url: the link to the reviews page for a specific movie on rottentomatoes (e.g. https://www.rottentomatoes.com/m/exodus_gods_and_kings/reviewsLinks to an external site.
