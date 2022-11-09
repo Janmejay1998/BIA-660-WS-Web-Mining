@@ -1,3 +1,5 @@
+# Movie Scraper
+
 Extend the Scraping HTML websites.ipynb notebook so that the csv file it produces has the following five columns (in that order): <br>
 
 * critic name (e.g. Avi Offer) <br>
