@@ -21,6 +21,7 @@ review 1 has 2 sentences and 3 nouns: <br>
 
   * I really like this product, the quality is perfect. <br>     
   * However, the price of the product is unreasonable <br>   
+  
 product: [2,1]: (2 positives, 1 negative) <br>
 quality: [2,0]: (2 positives, 0 negatives) <br>
 price: [0,1]: (0 positives, 1 negative) <br>
@@ -29,7 +30,8 @@ price: [0,1]: (0 positives, 1 negative) <br>
 
 review 2 has 1 sentence and 2 nouns: <br>
 
-This product has a great price  <br>
+  * This product has a great price  <br>
+
 product: [1,0]: (1 positive, 0 negatives) <br>
 price: [1,0] : (1 positive,  0 negatives) <br>
 
