@@ -48,4 +48,4 @@ The overall opinion for 'price in review 2 is: positive <br>
 
 __In this case, the two reviews express an opposite opinion for the attribute 'price'. The first review expresses a negative opinion and the second review expresses a positive opinion.__ <br>
 
-Your function should return ['price'] <br>
+**Your function should return ['price']** <br>
