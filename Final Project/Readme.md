@@ -2,7 +2,7 @@
 
 Politifact's truth-o-meter website (https://www.politifact.com/truth-o-meter/) organizes statements by public figures into 5 categories: True, Mostly True, Half True, Mostly False, False, Pants on Fire.
 
-__Your first task__ is to create a Python Notebook called "Scraping.ipynb" that  collects all statements from the True, Mostly True, Mostly False, False, Pants on Fire categories. Ignore the Half True category.
+<ins> __Your first task__ </ins> is to create a Python Notebook called "Scraping.ipynb" that  collects all statements from the True, Mostly True, Mostly False, False, Pants on Fire categories. Ignore the Half True category.
 Collect only the following information for each statement:
 
 The date of the statement
