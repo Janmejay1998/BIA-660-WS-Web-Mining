@@ -3,13 +3,14 @@
 Politifact's truth-o-meter website (https://www.politifact.com/truth-o-meter/) organizes statements by public figures into 5 categories: True, Mostly True, Half True, Mostly False, False, Pants on Fire.
 
 <ins> __Your first task__ </ins> is to create a Python Notebook called "Scraping.ipynb" that  collects all statements from the True, Mostly True, Mostly False, False, Pants on Fire categories. Ignore the Half True category. <br>
+
 Collect only the following information for each statement:
 
-The date of the statement
-The platform on which the statement was made (e.g. Twitter)
-The text of the statement.
-The name of the person who made the statement.
-The deliverables of the first task are:
+* The date of the statement
+* The platform on which the statement was made (e.g. Twitter)
+* The text of the statement.
+* The name of the person who made the statement.
+* The deliverables of the first task are:
 
 Scraping.ipynb
 A 'data.csv' file  that includes the above information for all statements. The csv should include 1 row for each statement. Each row should have five columns: date,platform,text,person, truthfulness category. 
